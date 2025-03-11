@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "paracetamol",
+        "descripcion": "analgesico",
+        "precio": 12000.0,
+        "stock": 100,
+        "proveedor": "farm",
+        "fecha_vencimiento": "2025-03-11"
+    },
+    {
+        "id": 2,
+        "nombre": "acetaminofen",
+        "descripcion": "analgecico y reductor de fiebre",
+        "precio": 10000.0,
+        "stock": 100,
+        "proveedor": "farm",
+        "fecha_vencimiento": "2025-03-11"
+    }
+]

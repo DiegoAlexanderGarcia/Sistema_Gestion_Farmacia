@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "fecha": "2025-03-11 16:39:59",
+        "medicamento_id": 1,
+        "medicamento_nombre": "paracetamol",
+        "cantidad": 10,
+        "precio_unitario": 12000.0,
+        "total": 120000.0
+    }
+]
